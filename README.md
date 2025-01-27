@@ -1,4 +1,4 @@
-Language Learning Database Management System
+Language Learning Database Management System:
 
 Background:
 
